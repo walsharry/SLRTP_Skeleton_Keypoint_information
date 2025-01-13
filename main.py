@@ -10,8 +10,7 @@ Run the following to plot a skeleton keypoint from the SLRTP Challenge.
 
 if __name__ == '__main__':
     # Load the skeleton keypoint
-    # pred = torch.load('./data/phix/dev.pt')
-    pred = torch.load('/home/hw00711/Documents/slp_challenge/files_for_ed/website_data/phix_challenge_data/dev.pt')
+    pred = torch.load('./data/phix/dev.pt')
 
     # choose a frame
     key = list(pred.keys())[0]
