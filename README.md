@@ -6,6 +6,11 @@ Run the following command to install the required packages:
 pip install torch matplotlib
 ```
 
+Change line 13 in main.py to the path to the .pt pose data e.g. 
+```python
+pred = torch.load('./data/phix/dev.pt')
+```
+
 Run the following to plot an example: 
 ```bash
 python plot_skeleton.py
