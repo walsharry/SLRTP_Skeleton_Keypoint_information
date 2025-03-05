@@ -1,6 +1,8 @@
 # SLRTP_CVPR_2025_Challenge_Code
 Helpful code for the Sign Language Production Challenge for the SLRTP CVPR workshop
 
+See **./keypoint_def.py** for keypoint labels
+
 Run the following command to install the required packages:
 ```bash
 pip install torch matplotlib
