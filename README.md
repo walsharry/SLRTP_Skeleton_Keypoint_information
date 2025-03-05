@@ -3,6 +3,8 @@ Helpful code for the Sign Language Production Challenge for the SLRTP CVPR works
 
 See **./keypoint_def.py** for keypoint labels
 
+# Skeleton Visualization
+ 
 Run the following command to install the required packages:
 ```bash
 pip install torch matplotlib
