@@ -1,9 +1,9 @@
-# SLRTP_CVPR_2025_Challenge_Code
+# SLRTP CVPR 2025 Skeleton Information
 Helpful code for the Sign Language Production Challenge for the SLRTP CVPR workshop
 
 See **./keypoint_def.py** for keypoint labels
 
-# Skeleton Visualization
+# Skeleton Visualisation
  
 Run the following command to install the required packages:
 ```bash
